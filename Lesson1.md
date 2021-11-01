@@ -16,7 +16,7 @@
 На первый взгляд страшно, но мы справимся.
 Сначала разберем ее как в школе, площадь прямоугольного треугольника 
 
-![Alt].(https://yandex.ru/images/search?from=tabbar&text=%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B0&pos=1&img_url=https%3A%2F%2Fsun9-57.userapi.com%2Fimpf%2Fqol71T1aQ8xe4c3mUJrEVvHpKa1pnFxYK4p-ZA%2FIFmcGN35-I4.jpg%3Fsize%3D200x150%26quality%3D96%26sign%3D4a20ad9917c1f65509cc2c8bb99894b0%26type%3Dalbum&rpt=simage/ "Заголовок изображения")
+![Alt](https://cf.ppt-online.org/files1/slide/1/130zGh5g6moUrnlYtMTZKDeJBL89xXHV4jNyAs/slide-9.jpg/ "Заголовок изображения")
 
 
 теперь попробуем это записать на языке Java
