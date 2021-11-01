@@ -33,3 +33,5 @@ let a = parseInt(prompt())
 let b = parseInt(prompt())
 console.log(a*b/2)
 ```
+
+До новых встреч !!!
