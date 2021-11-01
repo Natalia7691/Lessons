@@ -17,7 +17,9 @@
 Сначала разберем ее как в школе, площадь прямоугольного треугольника 
 
 ![Alt](https://cf.ppt-online.org/files1/slide/1/130zGh5g6moUrnlYtMTZKDeJBL89xXHV4jNyAs/slide-9.jpg/ "Заголовок изображения")
-
+<source lang="md">
+![Alt-текст](http://cf.ppt-online.org/files1/slide/1/130zGh5g6moUrnlYtMTZKDeJBL89xXHV4jNyAs/slide-9.jpg/ "Заголовок изображения")
+</source>
 
 теперь попробуем это записать на языке Java
 Вот несколько терминов для создания блока
